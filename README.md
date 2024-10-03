@@ -4,7 +4,14 @@
 (Imagens para adicionar)
 
 #SalesManagementApp
-(Imagens para adicionar)
+
+![image](https://github.com/user-attachments/assets/d8f5e510-87bc-40eb-ab35-685f888b3504)
+![image](https://github.com/user-attachments/assets/de6ef58b-e979-47a8-82bc-832d044fe316)
+![image](https://github.com/user-attachments/assets/a8c7f03a-b444-4627-8de4-ff3b6a48332e)
+![image](https://github.com/user-attachments/assets/141e2107-eac7-4b4f-9c9b-df39aee1d2dc)
+![image](https://github.com/user-attachments/assets/5d5669ce-a97d-495a-a8fd-590c82afdafe)
+![image](https://github.com/user-attachments/assets/91cd0631-1b20-4df2-8aed-87affcedd006)
+![image](https://github.com/user-attachments/assets/f5d91dbf-525d-4d2c-98a7-766ebf0e1c30)
 
 #RealEstateSite
 
