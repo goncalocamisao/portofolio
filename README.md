@@ -1,4 +1,4 @@
-"Portofolio"
+"Portfólio"
 
 Cada pasta de projeto tem o codigo do projeto e a sua base de dados, e nas outras pastas estão os certificados adquiridos durante o estágio na CELFOCUS e no DataCamp
 
